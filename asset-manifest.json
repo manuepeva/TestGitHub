@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6f3522f.chunk.css",
+    "main.js": "/static/js/main.3d71695f.chunk.js",
+    "main.js.map": "/static/js/main.3d71695f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7cf9b1cb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7cf9b1cb.js.map",
+    "static/js/2.37318f06.chunk.js": "/static/js/2.37318f06.chunk.js",
+    "static/js/2.37318f06.chunk.js.map": "/static/js/2.37318f06.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cf8f1005cc686675aa42c93ba19df7dc.js": "/precache-manifest.cf8f1005cc686675aa42c93ba19df7dc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a6f3522f.chunk.css.map": "/static/css/main.a6f3522f.chunk.css.map",
+    "static/js/2.37318f06.chunk.js.LICENSE.txt": "/static/js/2.37318f06.chunk.js.LICENSE.txt",
+    "static/media/laura.jpg": "/static/media/laura.85ffe6ca.jpg",
+    "static/media/lucia.jpg": "/static/media/lucia.8d92105a.jpg",
+    "static/media/mariajose.jpg": "/static/media/mariajose.7ea40eee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cf9b1cb.js",
+    "static/js/2.37318f06.chunk.js",
+    "static/css/main.a6f3522f.chunk.css",
+    "static/js/main.3d71695f.chunk.js"
+  ]
+}

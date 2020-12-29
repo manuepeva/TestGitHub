@@ -2,7 +2,7 @@ Title: Patient manager with React.
 
 Description: Project created using create-react-app, uuid and node-sass to create a single page application.
 
-Objective: Deliver a customer facing patient manager that allow user to add, delete, modify and udpate patient´s dates and to schedule and organize daily activities.
+Objective: Deliver a customer facing patient manager that allow user to add, delete, modify and update patient´s dates and to schedule and organize daily activities.
 
 [![Header](https://raw.githubusercontent.com/manuepeva/Administrador-de-Pacientes-React/master/Screenshot_2020-12-21%20Administraci%C3%B3n%20de%20Pacientes.png "Header")](https://raw.githubusercontent.com/manuepeva/Administrador-de-Pacientes-React/master/Screenshot_2020-12-21%20Administraci%C3%B3n%20de%20Pacientes.png)
 
